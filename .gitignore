@@ -1,0 +1,4 @@
+/vendor/
+/storage/*.sqlite
+/storage/version_cache*
+/storage/*.log
